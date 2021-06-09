@@ -1,6 +1,5 @@
 const axios = require('axios')
 const fs = require('fs')
-// const { resolve } = require('path')
 
 var id_list=[]
 var course_list=[]
