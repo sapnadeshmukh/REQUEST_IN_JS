@@ -1,0 +1,12 @@
+{
+    "id": "3159",
+    "parent_exercise_id": null,
+    "name": "Files",
+    "slug": "python__dataTypes",
+    "sequence_num": 200,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"Data Types ko start karne ke liye aap yeh course kariye - [https://saral.navgurukul.org/course/83](https://saral.navgurukul.org/course/83) Uss course ko kar kar aap yaha se hi continue karo. \"}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/python/dataTypes.md"
+}
